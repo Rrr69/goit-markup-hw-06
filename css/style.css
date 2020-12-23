@@ -687,6 +687,7 @@ img {
 .address-style {
   margin-top: 20px;
   font-style: normal;
+  width: 231px;
 }
 
 .address-margin:not(:last-child) {
